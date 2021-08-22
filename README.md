@@ -13,3 +13,5 @@ on style.css:
     -consolidated selectors using commas ","
     -added comments
     -rearranged to logical order
+
+Live URL https://ncpandrade.github.io/SEO-Challenge/
